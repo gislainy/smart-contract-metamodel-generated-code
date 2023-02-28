@@ -1,0 +1,1 @@
+# smart-contract-metamodel-generated-code
